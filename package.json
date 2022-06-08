@@ -1,7 +1,7 @@
 {
   "name": "react_weather_app",
   "version": "0.1.0",
-  "homepage": "http://Tsekhmister.github.io/react_weather_app/",
+  "homepage": "http://Tsekhmister.github.io/react_redux_weather_app/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",

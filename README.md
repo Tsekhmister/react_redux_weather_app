@@ -1,6 +1,6 @@
 # React/Redux Weather App
 
-[DEMO LINK](http://Tsekhmister.github.io/react_weather_app/)
+[DEMO LINK](http://Tsekhmister.github.io/react_redux_weather_app/)
 
 # Description
 
